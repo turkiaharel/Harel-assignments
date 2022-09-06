@@ -1,5 +1,22 @@
 # Harel-assignments
 
+Files:
+
+Assignment 1:
+
+Assignment1.ps1 - PowerShell script that interacts with Azure Active directory.
+
+AzureTestUsers.log - PowerShell script log file
+
+assignment1 screen output.jpg - PowerShell screen output printscreen
+
+Assignment 3:
+
+main.tf - Terraform - Create Azure Infrastructure resources
+
+Assignment3_Terraform .jpg - Resource diagram 
+
+
 Assignment 1: PowerShell script that interacts with Azure Active directory.
 
 Tasks:
